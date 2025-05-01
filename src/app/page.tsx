@@ -37,6 +37,12 @@ export default function Home() {
         <Card className="mb-4">
           <CardHeader>
             <CardTitle>What's in your fridge?</CardTitle>
+￼
+ 
+🥗 AI Recipe Maker
+￼￼
+￼
+
           </CardHeader>
           <CardContent>
             <div className="grid gap-2">
